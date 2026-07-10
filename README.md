@@ -1,4 +1,4 @@
 # demo-repo
 This is a Git Repository
 <br>
-Author - Mahi
+Author - Mahi Kansal
